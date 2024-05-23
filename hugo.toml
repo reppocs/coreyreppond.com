@@ -33,6 +33,7 @@ _merge = "none"
     # the default fontawesome style in simple key-value pairs is "fab", i.e. brand icons
     github = "https://github.com/reppocs"
     twitter = "https://twitter.com/reppocs"
+    linkedin = "https://www.linkedin.com/in/creppond"
     
     [params.contact.email]
       name = "email" # may be omitted. defaults to key name
